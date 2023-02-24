@@ -1,7 +1,7 @@
 # SABRE
 
 Code for
-*Provable Safe Reinforcement Learning with Binary Feedback*
+**Provable Safe Reinforcement Learning with Binary Feedback**
 Andrew Bennett, Dipendra Misra, Nathan Kallus
 https://arxiv.org/abs/2210.14492
 
